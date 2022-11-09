@@ -1,0 +1,4 @@
+this is  version 1 of my project
+i want to go to commit 2
+change by arti
+this is change now
